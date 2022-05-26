@@ -106,6 +106,7 @@ body {
 }
 .header-nav-list {
   display: flex;
+  align-items: center;
 }
 .header-nav-item:not(:last-child) {
   margin-right: var(--typical-margin);
@@ -130,6 +131,7 @@ body {
 .header-list {
   display: flex;
   margin-left: auto;
+  align-items: center;
 }
 .header-item {
 }
